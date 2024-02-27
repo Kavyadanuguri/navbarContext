@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.home-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.home-bg-container1 {
+  display: flex;
+  background-color: black;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.home-img {
+  width: 150px;
+  height: 150px;
+}
+.home-h1 {
+  color: #1e293b;
+  font-family: 'roboto';
+}
+.home-h11 {
+  color: #ffffff;
+  font-family: 'roboto';
+}

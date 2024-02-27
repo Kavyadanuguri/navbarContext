@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.above-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.above-bg-container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 90vh;
+}
+.above-img {
+  width: 150px;
+  height: 150px;
+}
+.above-h1 {
+  color: #1e293b;
+  font-family: 'roboto';
+}
+.above-h11 {
+  color: #ffffff;
+  font-family: 'roboto';
+}

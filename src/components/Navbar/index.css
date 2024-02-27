@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 10vh;
+  box-shadow: #dcdcdc 0px 4px 16px 0px;
+}
+.nav-bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #333333;
+  height: 10vh;
+  box-shadow: #dcdcdc 0px 4px 16px 0px;
+}
+.nav-logo {
+  width: 60px;
+  height: 60px;
+}
+.nav-container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.nav-p1 {
+  color: #171f46;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-left: 30px;
+}
+.nav-p2 {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-left: 30px;
+}
+.link {
+  text-decoration: none;
+}
+.nav-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.list-item {
+  list-style-type: none;
+  margin-top: -18px;
+}
